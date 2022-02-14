@@ -1,17 +1,8 @@
-<table>
-        <tr>
-            <td><img width="20" src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/archive.svg" alt="archived" /></td>
-            <td><strong>Archived Repository</strong><br />
-            This code is no longer maintained. Feel free to fork it, but use it at your own risks.
-        </td>
-        </tr>
-</table>
 
 
 
-To explore the source code, start with [src/index.js](https://github.com/marmelab/admin-on-rest-demo/blob/master/src/index.js).
 
-**Note**: This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
 
 ## Available Scripts
 
