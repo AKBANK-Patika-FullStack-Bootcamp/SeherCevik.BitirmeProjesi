@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "789cc0b3-23e6-4a0c-bcf1-9ff0530fc6e1": {
+      "ProjectGuid": "789cc0b3-23e6-4a0c-bcf1-9ff0530fc6e1",
+      "DisplayName": "siteManagement",
+      "ColorIndex": 0
+    },
+    "d45131ed-43de-4aa4-946d-0e208a3edbfb": {
+      "ProjectGuid": "d45131ed-43de-4aa4-946d-0e208a3edbfb",
+      "DisplayName": "SiteLibrary.Entities",
+      "ColorIndex": 1
+    },
+    "6f8ed3b1-dfeb-4d6f-be05-97c51ddeb0b4": {
+      "ProjectGuid": "6f8ed3b1-dfeb-4d6f-be05-97c51ddeb0b4",
+      "DisplayName": "siteManagement.DataAccess",
+      "ColorIndex": 2
+    },
+    "3e995f94-8b5b-4dd2-be71-a52b6288403d": {
+      "ProjectGuid": "3e995f94-8b5b-4dd2-be71-a52b6288403d",
+      "DisplayName": "CreditCardTransaction",
+      "ColorIndex": 3
+    },
+    "8e9093ec-73d9-45a4-a364-d80341cd7fa4": {
+      "ProjectGuid": "8e9093ec-73d9-45a4-a364-d80341cd7fa4",
+      "DisplayName": "MongoData",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
