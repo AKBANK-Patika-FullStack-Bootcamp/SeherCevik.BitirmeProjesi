@@ -1,0 +1,1 @@
+# SeherCevik.BitirmeProjesi
