@@ -1,3 +1,3 @@
 # SeherCevik.BitirmeProjesi
 
-![](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SeherCevik.BitirmeProjesi/edit/main/dbdiagram.png)
+![](https://github.com/AKBANK-Patika-FullStack-Bootcamp/SeherCevik.BitirmeProjesi/blob/main/dbdiagram.PNG)
